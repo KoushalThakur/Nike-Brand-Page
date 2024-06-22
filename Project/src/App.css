@@ -47,9 +47,9 @@ nav ul {
   display: flex;
   list-style: none;
   gap: 24px;
-  
- 
+
 }
+
 
 .hero {
   display: flex;
@@ -104,8 +104,8 @@ nav ul {
 
 /* Footer */
 .footer {
-    background: #333;
-    color: #fff;
+    background: black;
+    color: #f0efef;
     padding: 40px 0;
     text-align: center;
     
